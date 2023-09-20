@@ -1,2 +1,2 @@
-# Simple portfolio page About me
+# Simple portfolio home page
 Link: https://www.lokendrabhat1.com.np
