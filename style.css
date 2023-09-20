@@ -17,7 +17,11 @@
     background-position: center;
     background-repeat: no-repeat; */
 
-    background: linear-gradient(150deg, yellow, blue, white);
+    background: linear-gradient(rgba(0, 0, 0, 0.2),
+                #02aaec10,
+                #02aaec76,
+                #02abec
+            ), blue;
     color: #ebecf0;
     padding: 15px 6%;
 }
