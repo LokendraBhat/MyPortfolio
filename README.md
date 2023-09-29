@@ -1,2 +1,2 @@
 # Simple portfolio home page
-Link: https://www.lokendrabhat1.com.np
+Link: https://www.lokendrabhat.com.np
